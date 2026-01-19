@@ -21,9 +21,11 @@ The repository includes implementations and examples covering the following fund
 
 ---
 
-## 🚀 How to Run
-To run the programs locally:
+## 🔗 Repository Links
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Muhammad-Habib783/cpp-fundamentals-programs.git
+- **View on GitHub**: [cpp-fundamentals-programs](https://github.com/Muhammad-Habib783/cpp-fundamentals-programs)
+
+- **Clone with Git**:
+  ```bash
+  git clone https://github.com/Muhammad-Habib783/cpp-fundamentals-programs.git
+
