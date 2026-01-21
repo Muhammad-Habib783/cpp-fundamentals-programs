@@ -4,7 +4,7 @@ Fundamental C++ concepts and exercises for learning and practice.
 
 # C++ Fundamentals Programs
 
-This repository contains a collection of beginner-friendly C++ programs developed during my first semester of **Programming Fundamentals**. The goal of this project is to strengthen the understanding of core programming concepts through practical examples and hands-on coding exercises.
+This repository contains a collection of beginner-friendly C++ programs developed during my first semester of **Programming Fundamentals**. The goal of this project is to strengthen the understanding of core programming concepts through  practical examples and hands-on coding exercises.
 
 By working through these programs, learners can build a solid foundation in C++ and prepare themselves for more advanced topics such as object-oriented programming, data structures, and algorithms.
 
