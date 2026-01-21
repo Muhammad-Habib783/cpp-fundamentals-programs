@@ -19,13 +19,4 @@ The repository includes implementations and examples covering the following fund
 - **Functions**: Writing reusable blocks of code to improve modularity.
 - **Arrays and Strings**: Managing collections of data and working with text.
 
----
-
-## 🔗 Repository Links
-
-- **View on GitHub**: [cpp-fundamentals-programs](https://github.com/Muhammad-Habib783/cpp-fundamentals-programs)
-
-- **Clone with Git**:
-  ```bash
-  git clone https://github.com/Muhammad-Habib783/cpp-fundamentals-programs.git
 
